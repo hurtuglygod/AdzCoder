@@ -1,53 +1,21 @@
-# 👋 Hi, I’m Adil!  
-**Mechanical Engineering Student | University of Warwick | London, UK**
+# 👋 Hi, I’m Adil (AdzCoder)
 
-Welcome to my GitHub! I’m Adil, a passionate Mechanical Engineering undergraduate at the University of Warwick, originally from London. My projects blend mechanical design, electronics, and programming—often focusing on accessibility, education, and real-world problem solving.
+Welcome to my GitHub profile!  
+I’m an engineering student passionate about building accessible, innovative solutions—especially at the intersection of hardware and software.
 
----
+**Interests:**  
+- Product design & prototyping  
+- Embedded systems (Arduino, sensors, signal processing)  
+- CAD & technical drawing  
+- Data analysis & visualisation  
+- Accessibility and inclusive tech
 
-## 🚀 About Me
+**Technical Skills:**  
+MATLAB, Arduino, CAD, Circuit Design, Signal Processing, Python
 
-- 🎓 **Degree:** BEng Mechanical Engineering, University of Warwick  
-- 🏙️ **Home City:** London, United Kingdom  
-- 🛠️ **Interests:** Robotics, assistive technology, embedded systems, and STEM education  
-- 🌱 **Currently Learning:** Advanced control systems, MATLAB, C++ for embedded applications  
-- 🌐 [Linktree](https://linktr.ee/adilwb) | [LinkedIn](https://www.linkedin.com/in/adilw)
+**What you’ll find here:**  
+- Projects focused on engineering design, assistive technology, and educational tools  
+- Experiments with automation, data capture, and rapid prototyping  
+- Occasional write-ups on design thinking and problem-solving
 
----
-
-## 🛠️ Featured Projects
-
-### [EMG Eye Blink Detector](https://github.com/AdzCoder/EMG-Eye-Blink-Detector)
-*MATLAB-based system for detecting eye blinks from EMG signals, designed for assistive communication devices.*
-
-### [Robot Gripper Arm](https://github.com/AdzCoder/robot-gripper-arm)
-*Electromechanical gripper arm to assist individuals with limited mobility. Built using C++ and Arduino.*
-
-### [Rocket Sensors](https://github.com/AdzCoder/rocket-sensors)
-*Arduino-based payload sensor system for water rocket telemetry and data collection.*
-
-### [ISO Involute Spline Calculator](https://github.com/AdzCoder/ISO-Involute-Spline-Calculator)
-*Comprehensive MATLAB tool for calculating and generating involute spline parameters to ISO 4156-1:2021.*
-
-### [AtomicFisher](https://github.com/AdzCoder/AtomicFisher)
-*Fun educational fishing game for KS3 science students to learn about chemical elements and the periodic table.*
-
----
-
-## 📈 Stats & Skills
-
-- **Languages:** MATLAB, C++, Python, Arduino
-- **Tools:** Simulink, Git, Fusion 360
-- **Interests:** Accessible technology, STEM outreach, rapid prototyping
-
----
-
-## 📫 Get in Touch
-
-- [LinkedIn](https://www.linkedin.com/in/adilw)
-- [Linktree](https://linktr.ee/adilwb)
-- Email: _Available upon request_
-
----
-
-Thanks for stopping by! If you’re interested in collaborating or want to chat about engineering, tech, or education, feel free to reach out.
+Feel free to connect or check out my pinned repositories for highlights!
